@@ -54,8 +54,8 @@ $A$ est la fonction de survie de la loi de Burr XII.
 ## Installation et utilisation
 
 ```bash
-git clone https://github.com/Otodji/simulation-burr-ptlen.git
-cd simulation-burr-ptlen
+git clone https://github.com/Otodji/Simulation_Monte_Carlo_PTLENKies.git
+cd Simulation_Monte_Carlo_PTLENKies
 pip install -r requirements.txt
 jupyter notebook Simulation_BurrPTLEN.ipynb
 ```
